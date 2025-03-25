@@ -1,10 +1,8 @@
-# Three.js and Shader Experimentation Template 
-
-## Based on famous template of the great https://github.com/akella
+# Distorted colours in Three.js scene
 
 ## Starting
-- mkdir temp
-- cd temp
-- git clone https://github.com/ilicdj/template.git
+- mkdir colours
+- cd colours
+- git clone https://github.com/ilicdj/colours.git ./
 - npm i
 - npm start
